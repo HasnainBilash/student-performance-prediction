@@ -1,3 +1,8 @@
 Download the dataset from:
 https://www.kaggle.com/datasets/adilshamim8/math-students?resource=download
-Place the CSV file in this folder or the root directory before running the notebook.
+
+After downloading:
+--> upload the file in google drive.
+-->Make the file public. 
+--> copy the drive link of the file
+--> paste it in the "url" for the code
